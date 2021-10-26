@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/M1CH3L2021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M1CH3L2021&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1CH3L2021&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M1CH3L2021&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1CH3L2021&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
   ##
