@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Michel Carvalho 👋
 
 - 🔭 Front-end Developer
-- 📚 Me aprofundando em React com JavaScript e TypeScript
+- 📚 Me especializando em React com JavaScript e TypeScript
 - 💻 Tenho interesse em TDD e métodos ágeis 
 - 👩‍🚀 Faço faculdade de Física
 
